@@ -1,7 +1,7 @@
 # Unixitry
 
 WINDOWS MAKE ISO (with Powershell):
-(SCOOP NEEDED (https://scoop.sh))
+(SCOOP NEEDED (https://scoop.sh)) \n
 scoop install docker
 scoop install qemu
 docker build buildenv -t Unixitry
